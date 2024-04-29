@@ -1,1 +1,5 @@
-# NM_AARTHIJIJO-V_FRIDAY-BATCH_FSWD_PROJECT-main
+Name: Aarthi Jijo
+ID: au960221104002
+college name: Arunachala college of Engineering for women
+username: aarthi
+Password: 12345
